@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "CineVerse",
+    "slug": "cineverse-movie-discovery",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#090D18"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#090D18"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
